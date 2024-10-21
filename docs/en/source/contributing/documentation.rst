@@ -1,4 +1,4 @@
-Documentação 
+Documentation 
 ###############
 
 The project's technical documentation serves to help interested parties, users 
